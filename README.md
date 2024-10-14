@@ -1,12 +1,12 @@
 # Sales-and-Finance-Analytics
 Project objectives:
-1. Create a Customer Performance Report
-2. Conduct a comprehensive comparison between Market Performance and Target
-3. Identify Performing Products
-4. Create Profit and Loss (P&L) reports by Fiscal Year
-5. Create Profit and Loss (P&L) reports by Months
-6. Create Profit and Loss (P&L) reports by Market
-7. Create Growth Margin % reports by Quarters
+1. Create a Customer Performance Report (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/Customer%20Performance.pdf)
+2. Conduct a comprehensive comparison between Market Performance and Target (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
+3. Identify Performing Products (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/Products%20Performance.pdf)
+4. Create Profit and Loss (P&L) reports by Fiscal Year (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)
+5. Create Profit and Loss (P&L) reports by Months (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf)
+6. Create Profit and Loss (P&L) reports by Market (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20by%20Market.pdf)
+7. Create Growth Margin % reports by Quarters (https://github.com/sunitkumarmaji7/Sales-and-Finance-Analytics/blob/main/GM%25%20by%20Quarters.pdf)
 
 Purpose of analytics: Empower businesses to monitor and evaluate their sales activities and performance. Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
 
