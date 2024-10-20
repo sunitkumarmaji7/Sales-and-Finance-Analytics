@@ -23,7 +23,7 @@ Technical Skills:
 6. Utilizing DAX to create calculated columns.
 
 Soft Skills:
-1. A refined understanding of Sales & Finance Reports
+1. A refined understanding of Sales & Finance Reports.
 2. Designing user-centric reports with empathy in mind.
 3. Optimization of report generation through meticulous fine-tuning.
 4. Developing a systematic approach to devising a report-building plan.
